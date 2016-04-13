@@ -1,0 +1,16 @@
+{
+  "name": "node_solution",
+  "version": "1.0.0",
+  "description": "world pair problem, find the pair with the highest score",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^3.3.2",
+    "fs": "0.0.2",
+    "stream": "0.0.2"
+  }
+}
